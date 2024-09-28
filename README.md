@@ -1,11 +1,11 @@
 This folder contains the results of an experiment in which I used
-Grimoire to write a rudimentary Space Invaders game. 
+GitHub Copilot to write a rudimentary Space Invaders game. 
 
 The file prompt.txt contains the initial prompt that I gave
-chatgpt.
+copilot.
 
 I provided the png files which picture the defender, the invader, 
 the missle, and the bombs.
 
-Chatgpt provided the html and javascript code.
+Copilot provided javascript code.
 
